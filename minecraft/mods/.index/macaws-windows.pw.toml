@@ -1,0 +1,16 @@
+filename = 'mcw-windows-2.4.0-1.21.1neoforge.jar'
+name = "Macaw's Windows"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c8ef5bd1a9382b76bce3f043871db2af6ee854224887c76a5d2984eb94e2e079cccc889031a12458b3031893308f123de4abe1355d7f70703a821c9dac0e021d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C7I0BCni/versions/pwwamkcJ/mcw-windows-2.4.0-1.21.1neoforge.jar'
+
+[update.modrinth]
+mod-id = 'C7I0BCni'
+version = 'pwwamkcJ'

@@ -1,0 +1,9 @@
+["Async Config"]
+	#Globally disable all toggleable functionality within the async system. Set to true to stop all asynchronous operations.
+	disabled = false
+	#Maximum number of threads to use for parallel processing. Set to -1 to use default value.
+	paraMax = -1
+	#List of entity class for sync processing.
+	synchronizedEntities = ["minecraft:item", "minecraft:tnt", "minecraft:experience_orb"]
+	#Enables parallel processing of entity spawns.
+	enableAsyncSpawn = true

@@ -1,0 +1,16 @@
+filename = 'chunky-player-pause-1.0.1.jar'
+name = 'Chunky Player Pause'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5030866e3a1b295cecee7e7118b00f0a8741ad769fed4ca58def61e7010b311c7aa21ed83a0b3bfeb43ebf13e39211ea84720c2e006e3e25893c64649cf6b4bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wYO04fON/versions/A7KrBSSU/chunky-player-pause-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'wYO04fON'
+version = 'A7KrBSSU'

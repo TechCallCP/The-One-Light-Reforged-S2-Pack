@@ -1,0 +1,16 @@
+filename = 'mcw-furniture-3.3.0-mc1.21.1neoforge.jar'
+name = "Macaw's Furniture"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'def79e4895e0cbed6e8a0064d7e0c3d2b8539b0e23a1494925f2b90e876706d9c4d5949e3b6507e12a812c1eabae644d06e017b3be5371dffa05f433c092aae5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dtWC90iB/versions/79UcQb4L/mcw-furniture-3.3.0-mc1.21.1neoforge.jar'
+
+[update.modrinth]
+mod-id = 'dtWC90iB'
+version = '79UcQb4L'

@@ -1,0 +1,16 @@
+filename = 'ctgui-neoforge-1.21.1-0.3.0.jar'
+name = 'CraftTweaker GUI'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f0858d683d0018fecd834f3c13f62526d672fefbba9da51e37b62d8b1afa6db889879a89c883f94200c595537a7c9e3c395938b9f9c767c26fa9fee0ab80b2a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FPG0nezA/versions/rn56bLyw/ctgui-neoforge-1.21.1-0.3.0.jar'
+
+[update.modrinth]
+mod-id = 'FPG0nezA'
+version = 'rn56bLyw'

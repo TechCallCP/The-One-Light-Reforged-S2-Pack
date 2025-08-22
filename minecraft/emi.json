@@ -1,0 +1,41 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    {
+      "type": "item",
+      "id": "tfmg:bauxite_powder",
+      "amount": 4
+    },
+    "item:tfmg:aluminum_ingot"
+  ],
+  "craft_history": [
+    "minecraft:smoker",
+    "minecraft:furnace",
+    "minecraft:crafting_table",
+    "minecraft:stone_hoe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_sword",
+    "minecraft:stone_axe",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:stick",
+    "minecraft:oak_planks",
+    "minecraft:white_bed",
+    "minecraft:birch_boat",
+    "minecraft:raw_iron",
+    "minecraft:coal",
+    "sophisticatedbackpacks:iron_backpack",
+    "sophisticatedbackpacks:backpack",
+    "minecraft:chest",
+    "minecraft:birch_planks",
+    "ecologics:walnut_planks",
+    "minecraft:iron_axe"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

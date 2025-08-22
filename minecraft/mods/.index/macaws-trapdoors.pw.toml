@@ -1,0 +1,16 @@
+filename = 'mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar'
+name = "Macaw's Trapdoors"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a42940bd8fc9b1adaf974d1d450d3bffce9469480d6c2e4a456443d0535b6a7170bf3be6e4c148bad102b08611791323d6a90418d63828c1d62c853d81bba2b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/n2fvCDlM/versions/tAEmSGIF/mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar'
+
+[update.modrinth]
+mod-id = 'n2fvCDlM'
+version = 'tAEmSGIF'

@@ -1,0 +1,16 @@
+filename = 'mcw-paths-1.1.0neoforge-mc1.21.1.jar'
+name = "Macaw's Paths and Pavings"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e6eefdf3f680399ad2e9aeb4996fcf7166a9e63ded0f2aa6519ea66c8390beb9417507efbfda1abbcefb3e5e9e4ab295440c62ad7ae851105dd621ab66ea4fee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VRLhWB91/versions/2f14iz8e/mcw-paths-1.1.0neoforge-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'VRLhWB91'
+version = '2f14iz8e'

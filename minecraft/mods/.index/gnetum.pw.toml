@@ -1,0 +1,16 @@
+filename = 'gnetum-3.0.3.jar'
+name = 'Gnetum'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd1a8ce4aa191fb0f696816af37edb570432dcfd2083db377e448fa6358886a8a3307a22f8663a11c90bb7c4ce11e63ca5226faa54ae502aff81c998354d7a18b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7MoE34WK/versions/wMfNiBAD/gnetum-3.0.3.jar'
+
+[update.modrinth]
+mod-id = '7MoE34WK'
+version = 'wMfNiBAD'
