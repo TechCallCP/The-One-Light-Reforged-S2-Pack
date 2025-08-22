@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1.0.0",
+  "modpackName": "The One Light: Reforged - S2",
+  "modpackAuthor": "InvulnerableCaptain",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://github.com/TechCallCP/The-One-Light-Reforged-S2-Pack.git/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
