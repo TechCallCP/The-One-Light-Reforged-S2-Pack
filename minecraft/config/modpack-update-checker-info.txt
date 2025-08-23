@@ -1,0 +1,4 @@
+# The One Light: Reforged - Season 2
+## Patch 1
+
+This patch readds coldsweat mod to the game, as well as some minor performance issues. We have also added a *compatability* mod for recipes. Don't forget to update you pack when there is a new update.
