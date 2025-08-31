@@ -1,7 +1,0 @@
-#010 minecraft:forest
-#4F1 minecraft:ocean
-#3DC minecraft:plains
-#5FF minecraft:river
-#4D3 minecraft:swamp
-#4C3 minecraft:windswept_hills
-#579 minecraft:windswept_savanna
