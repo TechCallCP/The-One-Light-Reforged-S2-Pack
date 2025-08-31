@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+    "id": "1.0.0",
+    "releasedAt": 1755939600011,
+    "promotions": {
+        "downloads": {
+            "generic": "https://github.com/TechCallCP/The-One-Light-Reforged-S2-Pack/edit/1.21.1/"
+        }
+    }
+    "updateType": "major"
+    },
+    {
+    "id": "1.0.1",
+    "releasedAt": 1755954000011,
+    "promotions": {
+        "downloads": {
+            "generic": "https://github.com/TechCallCP/The-One-Light-Reforged-S2-Pack/edit/1.21.1/"
+        }
+    },
+    "updateType": "major"
+    }
+  ]
+}

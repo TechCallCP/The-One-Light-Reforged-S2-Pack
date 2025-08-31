@@ -1,0 +1,14 @@
+Add new mods:
+
+Cold Sweat
+Thirst was Taken
+Pollution of the Realms
+Advanced Chimies
+Electrodynamics
+DynamicElectricity
+NuclearScience
+BlastCraft
+Ballistix
+VolticApi
+
+Also performed major fix on modpack checker. All players are required to download the modpack from this page to fix this major issue.
