@@ -1,0 +1,16 @@
+filename = 'swplanets-1.21-neoforge-1.0.2.jar'
+name = 'Star Wars Planet Stellaris'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'fe0fdd7cb4a20e90c3490f03d3b33f79471c3d0596a8fbb05ca923783358fb4f7fed27f85186a5632a878e0b20662901be5b4bb6a76f01455dd2d1b6215c866a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lETYKDoG/versions/fV57XE7V/swplanets-1.21-neoforge-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'lETYKDoG'
+version = 'fV57XE7V'
